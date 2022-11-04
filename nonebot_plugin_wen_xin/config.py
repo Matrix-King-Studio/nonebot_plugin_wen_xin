@@ -10,6 +10,7 @@
 # >>> Blog      : https://alex007.blog.csdn.net/
 # ☆ ☆ ☆ ☆ ☆ ☆ ☆
 import nonebot
+
 from pydantic import BaseSettings
 
 
